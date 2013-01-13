@@ -4,5 +4,5 @@
    editor to be too wide
 */
 .CodeMirror pre {
-    max-width:800px;
+    width:100%;
 }
