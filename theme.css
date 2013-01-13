@@ -3,10 +3,6 @@
    is forcing all the Jenkins pages that include a CodeMirror
    editor to be too wide
 */
-.CodeMirror-lines {
-    width: 40em !important;
-}
-
-.CodeMirror {
-    color: red;
+div.CodeMirror-lines div div pre {
+    max-width: 40em !important;
 }
