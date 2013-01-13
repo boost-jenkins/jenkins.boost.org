@@ -6,3 +6,7 @@
 .CodeMirror-lines {
     width: 40em !important;
 }
+
+.CodeMirror {
+    color: red;
+}
